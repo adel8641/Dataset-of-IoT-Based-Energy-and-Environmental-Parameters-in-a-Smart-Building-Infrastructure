@@ -1,0 +1,2 @@
+# Dataset-of-IoT-Based-Energy-and-Environmental-Parameters-in-a-Smart-Building-Infrastructure
+Data were collected using IoT sensors (energy consumption meters, temperature, humidity, and occupancy sensors) deployed throughout the M5 building. Energy data were recorded from devices like coffee machine, microwave, etc., and environmental data were captured in key areas (Interdisciplinary lab, kitchen, and mail room). 
